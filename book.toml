@@ -1,0 +1,6 @@
+[book]
+authors = ["Aiden Farley"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Troop 901 Guide"
